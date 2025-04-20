@@ -7,7 +7,7 @@
 - 🤝 Мое резюме: [HH.ru](https://bishkek.headhunter.kg/resume/db4ca731ff0ebc8a610039ed1f4f7337487a4c)  
   
 
-- 💻 Все мои проекты доступны [здесь](http://example/com)  
+- 💻 Все мои проекты доступны [здесь](https://react-portfolio-black-eight.vercel.app/)  
   
 
 <br/>  
